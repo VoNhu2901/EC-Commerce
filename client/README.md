@@ -9,6 +9,7 @@
 - npm install axios
 
 ---
+
 - features: 1 src có nhiều features
 - components: share chung cho tất cả các features
 - hooks: dành cho những global hook share chung
@@ -16,4 +17,22 @@
 - api: các api chung
 - constants: lưu hằng
 
-**### ❤️❤️❤️ Happy coding ❤️❤️❤️**
+---
+
+Learn
+
+- https://reactjs.org/
+- https://redux.js.org/
+- https://redux-toolkit.js.org/
+- https://react-redux.js.org/
+
+```
+<a
+    className="App-link"
+    href="https://reactjs.org/"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+```
+
+### ❤️❤️❤️ Happy coding ❤️❤️❤️
